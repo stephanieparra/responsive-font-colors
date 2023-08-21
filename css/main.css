@@ -1,4 +1,4 @@
-/* Global styles that apply to mobile, tablet, and desktop. This default mobile style. */
+/* Global styles that apply to mobile, tablet, and desktop. */
 body,
 html {
   text-align: center;
@@ -11,6 +11,7 @@ section {
   margin: auto;
 }
 
+/* ---- Mobile styles ---- */
 h1 {
   font-family: "Righteous", cursive;
   font-size: 2em;
